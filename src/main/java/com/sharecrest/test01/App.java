@@ -34,6 +34,7 @@ public class App extends JFrame implements ActionListener, WindowListener
     
     public static void main( String[] args )
     {
+        System.out.println("test");
         new App();
     }
 
